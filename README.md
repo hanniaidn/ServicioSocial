@@ -20,6 +20,6 @@ En este  repositorio podrás encontrar el desarrollo de un entorno que integra *
 - **Entorno:** Visual Studio Code  
 
 ## Estructura del repositorio
-La carpeta titulada **SS_Git** contiene todos los códigos implementados, dentro se encuentran otras carpetas para su mejor organización. La carpeta titulada **FinalVersion** contiene la implementación final y funcional del dashboard. 
+La carpeta titulada **SS_Git** contiene todos los códigos implementados, dentro se encuentran otras carpetas para su mejor organización. La carpeta titulada **SS_Final** contiene la implementación final y funcional del dashboard. 
 
 
