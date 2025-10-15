@@ -1,6 +1,6 @@
 # Servicio Social
 ## Desarrollo de herramientas para el análisis de datos epidemiológicos 
-### Agosto 2024 a Septiembre 2025 
+### Agosto 2024 a Septiembre 2025, ENES Juriquilla, UNAM
 
 Hola, soy Hannia Dominguez, en este repositorio te daré a conocer cómo realicé mi servicio social 😁. 
 
@@ -19,7 +19,7 @@ En este  repositorio podrás encontrar el desarrollo de un entorno que integra *
 - **Librerías:** NumPy, Matplotlib, SciPy, Panel, Pandas, io, Plotly, datetime
 - **Entorno:** Visual Studio Code  
 
-## 🗂️ Estructura del repositorio
-La carpeta titulada **SS_Git** contiene todos los códigos implementados, dentro se encunetras otras carpetas para su mejor organización. La carpeta titulada **FinalVersion** contiene la implementación final y funcional del dashboard. 
+## Estructura del repositorio
+La carpeta titulada **SS_Git** contiene todos los códigos implementados, dentro se encuentran otras carpetas para su mejor organización. La carpeta titulada **FinalVersion** contiene la implementación final y funcional del dashboard. 
 
 
